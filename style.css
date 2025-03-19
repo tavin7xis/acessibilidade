@@ -22,6 +22,11 @@ section {
     padding-bottom: 5rem;
 }
 
+.container d-flex justify-content-between align-items-center {
+    height: 50px;
+    width: 50px;
+}
+
 .nav-img {
     height: 50px;
     width: 50px;
